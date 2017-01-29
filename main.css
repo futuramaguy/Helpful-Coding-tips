@@ -1,0 +1,27 @@
+h1 {
+  font-size: 40px;
+  color: blue;
+  background-color: black;
+}
+li {
+  font-size: 20px;
+  color: white;
+  font-family: 'Times New Roman';
+}
+p {
+  font-size: 20px;
+  color: purple;
+  background-color: green;
+}
+img {
+  height: 600px;
+}
+body{
+  background-image:url("http://www.hccs.edu/media/06132016_Computer_Programming_banner.jpg ")
+  
+  
+}
+#list {
+  background-color: black;
+  opacity:0.9;
+}
